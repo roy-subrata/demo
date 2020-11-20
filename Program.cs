@@ -1,4 +1,7 @@
 ﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Linq.Expressions;
 
 namespace demo
 {
@@ -7,8 +10,22 @@ namespace demo
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
-            Console.WriteLine("Hello Subrata!");
-            Console.WriteLine("Hello Winter");
+            Console.WriteLine("Hello Subrata12!");
+            Console.WriteLine("Hello WinterFeature");
+            Console.WriteLine("Hello Feature");
+            List<string> number=new List<string>{"2","3","3"};
+            
+
         }
+
+     
+
+    }
+
+    public class Person
+    {
+        public string Name { get; set; }
+        public int Id { get; set; }
+
     }
 }
