@@ -1,7 +1,4 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Linq.Expressions;
 
 namespace demo
 {
@@ -21,16 +18,8 @@ namespace demo
             System.Console.WriteLine("Hello Master");
 
 
+
+
         }
-
-     
-
-    }
-
-    public class Person
-    {
-        public string Name { get; set; }
-        public int Id { get; set; }
-
     }
 }
