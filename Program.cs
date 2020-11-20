@@ -16,22 +16,7 @@ namespace demo
 
             Console.WriteLine("Hello Subrata12!");
             Console.WriteLine("Hello WinterFeature");
-            Console.WriteLine("Hello Feature");
-            List<string> number=new List<string>{"2","3","3","4"};
-            System.Console.WriteLine("Hello boy");
-            
-
-
         }
-
-     
-
-    }
-
-    public class Person
-    {
-        public string Name { get; set; }
-        public int Id { get; set; }
 
     }
 }
